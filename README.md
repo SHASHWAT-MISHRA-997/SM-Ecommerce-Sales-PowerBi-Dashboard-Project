@@ -54,4 +54,5 @@ Created by SHASHWAT MISHRA
 If you have any questions or need support, please open an issue in this repository .
 
 # Screenshots:
-![image](https://github.com/user-attachments/assets/be22e044-32d2-4963-86a9-04e1927462fd)
+![Screenshot 2024-08-15 201730](https://github.com/user-attachments/assets/d43e9a6b-a1b6-4cf3-bab1-19bd9ba1fefe)
+
